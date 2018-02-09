@@ -12,8 +12,9 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.bignerdranch.android.googlemoogle.MainActivity"
     tools:showIn="@layout/app_bar_main">
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World! From Shamil!" />
+        android:text="Hello World! From Shamil! Paula" />
 </RelativeLayout>
